@@ -1,0 +1,1 @@
+Fold 1: Sp13-Sp39 Validation & Sp40-Sp120 TrainingFold 2: Sp40-Sp66 Validation & Sp13-Sp39 + Sp67-Sp120 TrainingFold 3: Sp67-Sp93 Validation & Sp13-Sp66 + Sp94-Sp120 TrainingFold 4: Sp94-Sp120 Validation & Sp13-Sp93 Training
