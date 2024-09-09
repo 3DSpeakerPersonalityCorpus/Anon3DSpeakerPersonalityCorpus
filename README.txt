@@ -7,7 +7,7 @@ used in a k-fold protocol);
 - Python scripts for classification, regression, and feature
 extraction (4 items);
 - Acoustic features of stimuli (140 items);
-- Acoustic features averaged by speaker (1 item);
+- Acoustic features averaged by speaker (channel 1 & 2) (2 items);
 - Listener personality ratings of stimuli (6 items);
 - Listener personality ratings averaged by speaker (1
 item);
