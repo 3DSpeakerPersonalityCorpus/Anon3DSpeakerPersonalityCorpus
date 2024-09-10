@@ -19,7 +19,7 @@ extraction (6 items);
 - Listener distance ratings by individual judges (1 item);
 - Listener personality ratings averaged by sample (5 items, 1 for each trait);
 - Listener distance ratings averaged by sample (1 item);
-- README file (1 item);
+- README file (1 item)
 
 
 
