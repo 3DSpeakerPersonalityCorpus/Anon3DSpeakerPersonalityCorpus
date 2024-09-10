@@ -21,8 +21,6 @@ extraction (6 items);
 - Listener distance ratings averaged by sample (1 item);
 - README file (1 item)
 
-
-
 ## File Naming Convention
 
 - S: Stimulus
@@ -42,9 +40,6 @@ This dataset consists of 720 audio recordings from 120 native English speakers (
 
 Speech stimuli were assessed by a separate group of 10 listeners (5 female, 5 male) on the Big Five personality traits of openness to experience, conscientiousness, extraversion, agreeableness, and neuroticism (on a 0 to 100 scale) and estimated distance (on a 0 to 10m scale). 
 
-## Contact Information
-To get in touch for questions about the corpus please contact alessandro.vinciarelli@glasgow.ac.uk
-
 ## Speech materials
 
 ### The North Wind and the Sun [1]
@@ -63,7 +58,6 @@ obliged to confess that the Sun was the stronger of the two.
 ## How to cite
 
 If you use the SONICOM 3D Speaker Personality Corpus in your research, please cite it as follows:
-
 
 ACM Style:
 Emily O'Hara, Evangelia Fringi, Nesreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanya Guha and Alessandro Vinciarelli. 2024. Sonicom 3D Speaker Personality Corpus. Data set. [unpublished]
