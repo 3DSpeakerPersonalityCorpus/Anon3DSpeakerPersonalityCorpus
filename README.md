@@ -1,7 +1,7 @@
 
 ## Introduction
 
-The SONICOM 3D Speaker Personality Corpus is a dataset designed to support research of spatial audio environments, speech-based personality perception and distance estimation. It contains 360 audio recordings of 120 speakers (60 male, 60 female) reading aloud at three distinct distances (0.5m, 2m, 5m). 
+The SONICOM 3D Speaker Personality Corpus is a dataset designed to support research of spatial audio environments, speech-based personality perception and distance estimation. It contains 360 audio recordings of 120 speakers (60 male, 60 female) reading aloud at three distinct distances (50 cm, 200 cm, 500 cm). 
 
 The corpus can be downloaded at the following link: https: //github.com/S3DSPC/Sonicom3DSpeakerPersonalityCorpus. 
 
@@ -29,14 +29,14 @@ extraction (6 items);
 - nnn: Speaker ID (a unique identifier for each speaker, e.g., 001, 002, ..., 120)
 - G: Gender (M for male, F for female)
 - L: Location (G for University of Glasgow, I for Imperial College London)
-- D: Distance (N for near-field (0.5m), C for conversational (2m) and F for further (5m))
+- D: Distance (N for near-field (50 cm), C for conversational (200 cm) and F for further (500 cm))
 - C: Channel (C1 for headphone channel 1, C2 for headphone channel 2)
 
 Example: S047MGN1 (Stimulus, Speaker 047, Male, Glasgow, Near-field, Channel 1)
 
 ## Data Overview
 
-Note: for a full description of the corpus, please refer to O'Hara et al., 2024 (DOI: 0.xxxx/xxxxx)[unpublished].
+Note: for a full description of the corpus, please refer to O'Hara et al., 2024 [unpublished].
 
 This dataset consists of 720 audio recordings from 120 native English speakers (60 male, 60 female), recruited equally from the University of Glasgow and Imperial College London. Participants recorded Aesops fable "The North Wind and the Sun" (see below) in anechoic booths using a RØDE NT-USB microphone. Each speaker read the story three times, simulating different listener distances: near-field (50 cm), conversational (200 cm), and further (500 cm). The recordings were truncated to 10 seconds and normalised for consistency.
 
@@ -64,15 +64,6 @@ obliged to confess that the Sun was the stronger of the two.
 
 If you use the SONICOM 3D Speaker Personality Corpus in your research, please cite it as follows:
 
-Bibtex format:
-@dataset{ohara2024corpus,Ê
-author= {Emily O'Hara and Evangelia Fringe and Nesreen Alshubaily and Lorenzo Picinali
-		and Stephen Brewster and Tanya Guha and Alessandro Vinciarelli},
-title= {Sonic 3D Speaker Personality Corpus},
-year= {2024},
-publisher= {unpublished},
-DOI= {10.xxxx/xxxxxx},
-url= {https://doi.org/10.xxxx/xxxxxx}
 
 ACM Style:
-Emily O'Hara, Evangelia Fringi, Nesreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanya Guha and Alessandro Vinciarelli. 2024. Sonicom 3D Speaker Personality Corpus. Data set. DOI: https://doi.org/10.xxxxxxxx.
+Emily O'Hara, Evangelia Fringi, Nesreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanya Guha and Alessandro Vinciarelli. 2024. Sonicom 3D Speaker Personality Corpus. Data set. [unpublished]
