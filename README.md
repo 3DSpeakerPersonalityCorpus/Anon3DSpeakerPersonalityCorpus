@@ -26,7 +26,7 @@ extraction (6 items);
 ## File Naming Convention
 
 - S: Stimulus
-- nnn: Speaker ID (a unique identifier for each speaker, e.g., 001, 002, ..., 60)
+- nnn: Speaker ID (a unique identifier for each speaker, e.g., 001, 002, ..., 120)
 - G: Gender (M for male, F for female)
 - L: Location (G for University of Glasgow, I for Imperial College London)
 - D: Distance (N for near-field (0.5m), C for conversational (2m) and F for further (5m))
@@ -38,7 +38,7 @@ Example: S047MGN1 (Stimulus, Speaker 047, Male, Glasgow, Near-field, Channel 1)
 
 Note: for a full description of the corpus, please refer to O'Hara et al., 2024 (DOI: 0.xxxx/xxxxx)[unpublished].
 
-This dataset consists of 720 audio recordings from 120 native English speakers (60 male, 60 female), recruited equally from the University of Glasgow and Imperial College London. Participants recorded AesopÕs fable "The North Wind and the Sun" (see below) in anechoic booths using a R¯DE NT-USB microphone. Each speaker read the story three times, simulating different listener distances: near-field (50 cm), conversational (200 cm), and further (500 cm). The recordings were truncated to 10 seconds and normalised for consistency.
+This dataset consists of 720 audio recordings from 120 native English speakers (60 male, 60 female), recruited equally from the University of Glasgow and Imperial College London. Participants recorded Aesops fable "The North Wind and the Sun" (see below) in anechoic booths using a RØDE NT-USB microphone. Each speaker read the story three times, simulating different listener distances: near-field (50 cm), conversational (200 cm), and further (500 cm). The recordings were truncated to 10 seconds and normalised for consistency.
 
 Speech stimuli were assessed by a separate group of 10 listeners (5 female, 5 male) on the Big Five personality traits of openness to experience, conscientiousness, extraversion, agreeableness, and neuroticism (on a 0 to 100 scale) and estimated distance (on a 0 to 10m scale). 
 
