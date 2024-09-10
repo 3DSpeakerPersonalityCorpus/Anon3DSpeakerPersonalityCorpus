@@ -34,5 +34,6 @@ obliged to confess that the Sun was the stronger of the two.
 [1] International Phonetic Association, Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet, Cambridge: Cambridge University Press, 1999.
 
 **How to cite**
-If you use the SONICOM 3D Speaker Personality Corpus in your research, please cite it as follows:  Bibtex format: @dataset{ohara2024corpus,     author    = {Emily O'Hara and Evangelia Fringe and Nesreen Alshubaily and Lorenzo Picinali
-		and Stephen Brewster and Tanya Guha and Alessandro Vinciarelli},     title     = {Sonic 3D Speaker Personality Corpus},     year      = {2024},     publisher = {unpublished},     doi       = {10.xxxx/xxxxxx},     url       = {https://doi.org/10.xxxx/xxxxxx}  ACM Style: Emily O'Hara, Evangelia Fringi, Nesreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanya Guha and Alessandro Vinciarelli. 2024. Sonicom 3D Speaker Personality Corpus. Data set. DOI: https://doi.org/10.xxxxxxxx.  
+If you use the SONICOM 3D Speaker Personality Corpus in your research, please cite it as follows: Bibtex format:@dataset{ohara2024corpus, author= {Emily O'Hara and Evangelia Fringe and Nesreen Alshubaily and Lorenzo Picinali
+		and Stephen Brewster and Tanya Guha and Alessandro Vinciarelli},title= {Sonic 3D Speaker Personality Corpus},year= {2024},publisher= {unpublished},DOI= {10.xxxx/xxxxxx},url= {https://doi.org/10.xxxx/xxxxxx}
+ACM Style:Emily O'Hara, Evangelia Fringi, Nesreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanya Guha and Alessandro Vinciarelli. 2024. Sonicom 3D Speaker Personality Corpus. Data set. DOI: https://doi.org/10.xxxxxxxx.
