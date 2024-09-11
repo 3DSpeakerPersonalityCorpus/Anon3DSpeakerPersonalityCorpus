@@ -60,4 +60,4 @@ obliged to confess that the Sun was the stronger of the two.
 If you use the SONICOM 3D Speaker Personality Corpus in your research, please cite it as follows:
 
 ACM Style:
-Emily O'Hara, Evangelia Fringi, Nesreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanya Guha and Alessandro Vinciarelli. 2024. Sonicom 3D Speaker Personality Corpus. Data set. [unpublished]
+Emily O'Hara, Evangelia Fringi, Nisreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanya Guha and Alessandro Vinciarelli. 2024. Sonicom 3D Speaker Personality Corpus. Data set. [unpublished]
