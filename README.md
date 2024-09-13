@@ -3,7 +3,7 @@
 
 The SONICOM 3D Speaker Personality Corpus is a dataset designed to support research of spatial audio environments, speech-based personality perception and distance estimation. It contains 360 audio recordings of 120 speakers (60 male, 60 female) reading aloud at three distinct distances (50 cm, 200 cm, 500 cm). 
 
-The corpus can be downloaded at the following link: https: //github.com/S3DSPC/Sonicom3DSpeakerPersonalityCorpus. 
+The corpus can be downloaded at the following link: https: //github.com/S3DSPC/Sonicom3DSpeakerPersonalityCorpus and was created within the remit of the Sonicom project (https://www.sonicom.eu/) (grant number: 101017743, RIA action of Horizon 2020).
 
 ## Directory Structure
 
