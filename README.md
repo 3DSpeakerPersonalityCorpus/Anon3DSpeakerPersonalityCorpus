@@ -34,8 +34,6 @@ Example: S047MGN1 (Stimulus, Speaker 047, Male, Glasgow, Near-field, Channel 1)
 
 ## Data Overview
 
-Note: for a full description of the corpus, please refer to O'Hara et al., 2024 [unpublished].
-
 This dataset consists of 720 audio recordings from 120 native English speakers (60 male, 60 female), recruited equally from the University of Glasgow and Imperial College London. Participants recorded Aesops fable "The North Wind and the Sun" (see below) in anechoic booths using a RØDE NT-USB microphone. Each speaker read the story three times, simulating different listener distances: near-field (50 cm), conversational (200 cm), and further (500 cm). The recordings were truncated to 10 seconds and normalised for consistency.
 
 Speech stimuli were assessed by a separate group of 10 listeners (5 female, 5 male) on the Big Five personality traits of openness to experience, conscientiousness, extraversion, agreeableness, and neuroticism (on a 0 to 100 scale) and estimated distance (on a 0 to 10m scale). 
@@ -59,6 +57,8 @@ obliged to confess that the Sun was the stronger of the two.
 
 If you use the SONICOM 3D Speaker Personality Corpus in your research, please cite it as follows:
 
-ACM Style:
-Eva Fringi, Stephen Brewster, Lorenzo Picinali, and Alessandro Vinciarelli. 2026. The interplay between interpersonal distance and personality perception in
-virtual immersive audio environments. [unpublished]
+1. For the corpus itself (ACM Style):
+Emily O'Hara, Eva Fringi, Nisreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanaya Guha, and Alessandro Vinciarelli. 2026. The Sonicom 3D Speaker Personality Corpus. [unpublished]
+
+2. For the associated research paper:
+Eva Fringi, Nisreen Alshubaily, Stephen Brewster, Lorenzo Picinali, Tanaya Guha, and Alessandro Vinciarelli. 2024. Is Distance a Modality? Multi-Task Learning for Speech-Based Joint Prediction of Attributed Traits and Perceived Distances in Virtual Immersive Audio Environments. In ICMI '24, November 04–08, 2024, San Jose, Costa Rica. ACM. https://doi.org/10.1145/3678957.3685740
