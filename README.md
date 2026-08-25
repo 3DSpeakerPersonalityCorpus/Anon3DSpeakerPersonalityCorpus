@@ -58,8 +58,8 @@ obliged to confess that the Sun was the stronger of the two.
 If you use the SONICOM 3D Speaker Personality Corpus in your research, please cite it as follows:
 
 1. For the corpus itself (ACM Style):
-Eva Fringi, Stephen Brewster, Lorenzo Picinali, and Alessandro Vinciarelli. 2026. The interplay between interpersonal distance and personality perception in
-virtual immersive audio environments. [unpublished]
+Emily O’Hara, Eva Fringi, Nisreen Alshubaily, Lorenzo Picinali, Stephen Brewster, Tanaya Guha, and Alessandro Vinciarelli. 2026. The Sonicom 3D Speaker Personality Corpus. [unpublished].
 
-2. For the associated research paper:
+3. For the associated research paper:
 Eva Fringi, Nisreen Alshubaily, Stephen Brewster, Lorenzo Picinali, Tanaya Guha, and Alessandro Vinciarelli. 2024. Is Distance a Modality? Multi-Task Learning for Speech-Based Joint Prediction of Attributed Traits and Perceived Distances in Virtual Immersive Audio Environments. In ICMI '24, November 04–08, 2024, San Jose, Costa Rica. ACM. https://doi.org/10.1145/3678957.3685740
+
